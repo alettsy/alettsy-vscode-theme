@@ -1,16 +1,21 @@
-# alettsy-theme README
+# alettsy VS Code Theme
 
-## Working with Markdown
+My personal VS Code theme for clean, clear coding.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Inspired by
+the amazing [ppy](https://github.com/peppy/ppy-jetbrains-theme)
+and [Catppuccin](https://github.com/catppuccin/jetbrains) themes
+with my own little colour twist.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installing locally
 
-## For more information
+```bash
+# install necessary packages
+npm install -g yo generator-code vsce
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# build package
+vsce package
 
-**Enjoy!**
+# install
+code --install-extension <output.vsix>
+```
