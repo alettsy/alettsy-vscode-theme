@@ -3,6 +3,10 @@
 	"displayName": "alettsy Theme",
 	"description": "My VS Code theme for clean, clear coding.",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alettsy/alettsy-vscode-theme"
+	},
 	"engines": {
 		"vscode": "^1.101.0"
 	},
