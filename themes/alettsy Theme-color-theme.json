@@ -7,10 +7,10 @@
 			"foreground": "#d0d0d9"
 		},
 		"variable.constant": {
-			"foreground": "#ce95b8"
+			"foreground": "#d0d0d9"
 		},
 		"variable.defaultLibrary": {
-			"foreground": "#e5bc66"
+			"foreground": "#d0d0d9"
 		}
 	},
 	"tokenColors": [
@@ -25,7 +25,7 @@
 			"name": "haskell variable generic-type",
 			"scope": "variable.other.generic-type.haskell",
 			"settings": {
-				"foreground": "#fb7385"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -39,7 +39,7 @@
 			"name": "support.variable.magic.python",
 			"scope": "support.variable.magic.python",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -53,7 +53,7 @@
 			"name": "variable.parameter.function.language.special.self.python",
 			"scope": "variable.parameter.function.language.special.self.python",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"name": "support.function.std.rust",
 			"scope": "support.function.std.rust",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -81,7 +81,7 @@
 			"name": "variable.language.rust",
 			"scope": "variable.language.rust",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -158,7 +158,7 @@
 			"name": "c++ function",
 			"scope": "meta.function.c,meta.function.cpp",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -186,21 +186,21 @@
 			"name": "math js/ts",
 			"scope": "support.constant.math",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
 			"name": "math property js/ts",
 			"scope": "support.constant.property.math",
 			"settings": {
-				"foreground": "#ce95b8"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
 			"name": "js/ts variable.other.constant",
 			"scope": "variable.other.constant",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -252,7 +252,7 @@
 			"name": "java variable.name",
 			"scope": "meta.definition.variable.name.java",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -336,7 +336,7 @@
 			"name": "js variable readwrite",
 			"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -370,14 +370,14 @@
 			"name": "js/ts support.variable.property.process",
 			"scope": "support.variable.property.process",
 			"settings": {
-				"foreground": "#ce95b8"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
 			"name": "js console function",
 			"scope": "entity.name.function,support.function.console",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -412,7 +412,7 @@
 			"name": "js dom variable",
 			"scope": "support.variable.dom,support.variable.property.dom",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -461,7 +461,7 @@
 			"name": "python parameter",
 			"scope": "variable.parameter.function.language.python",
 			"settings": {
-				"foreground": "#ce95b8"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -482,7 +482,7 @@
 			"name": "pyCs",
 			"scope": "variable.parameter.function.python",
 			"settings": {
-				"foreground": "#ce95b8"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -496,7 +496,7 @@
 			"name": "python function-call.generic",
 			"scope": "meta.function-call.generic.python",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -545,7 +545,7 @@
 			"name": "Variables",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -559,7 +559,7 @@
 			"name": "Language variables",
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -599,28 +599,28 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#98c379"
 			}
 		},
 		{
 			"name": "Classes",
 			"scope": "entity.name.type.namespace",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#61afef"
 			}
 		},
 		{
 			"name": "Classes",
 			"scope": "support.class, entity.name.type.class",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#61afef"
 			}
 		},
 		{
 			"name": "Class name",
 			"scope": "entity.name.class.identifier.namespace.type",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#61afef"
 			}
 		},
 		{
@@ -631,14 +631,14 @@
 				"variable.other.class.ts"
 			],
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#61afef"
 			}
 		},
 		{
 			"name": "Class name php",
 			"scope": "variable.other.class.php",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#61afef"
 			}
 		},
 		{
@@ -701,7 +701,7 @@
 			"name": "Support",
 			"scope": "support.function",
 			"settings": {
-				"foreground": "#d0d0d9"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -743,7 +743,7 @@
 			"name": "Inherited Class",
 			"scope": "entity.other.inherited-class",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#61afef"
 			}
 		},
 		{
@@ -801,7 +801,7 @@
 			"scope": "entity.other.attribute-name.class.css",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#ce95b8"
+				"foreground": "#61afef"
 			}
 		},
 		{
@@ -1078,7 +1078,7 @@
 			"name": "use statement for other classes",
 			"scope": "support.other.namespace.use.php,support.other.namespace.use-as.php,support.other.namespace.php,entity.other.alias.php,meta.interface.php",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#61afef"
 			}
 		},
 		{
@@ -1127,14 +1127,14 @@
 			"name": "php call-function",
 			"scope": "meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#98c379"
 			}
 		},
 		{
 			"name": "php function-resets",
 			"scope": "punctuation.definition.parameters.begin.bracket.round.php,punctuation.definition.parameters.end.bracket.round.php,punctuation.separator.delimiter.php,punctuation.section.scope.begin.php,punctuation.section.scope.end.php,punctuation.terminator.expression.php,punctuation.definition.arguments.begin.bracket.round.php,punctuation.definition.arguments.end.bracket.round.php,punctuation.definition.storage-type.begin.bracket.round.php,punctuation.definition.storage-type.end.bracket.round.php,punctuation.definition.array.begin.bracket.round.php,punctuation.definition.array.end.bracket.round.php,punctuation.definition.begin.bracket.round.php,punctuation.definition.end.bracket.round.php,punctuation.definition.begin.bracket.curly.php,punctuation.definition.end.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php,punctuation.definition.section.switch-block.start.bracket.curly.php,punctuation.definition.section.switch-block.begin.bracket.curly.php,punctuation.definition.section.switch-block.end.bracket.curly.php",
 			"settings": {
-				"foreground": "#d0d0d9"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"name": "python function support",
 			"scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
 			"settings": {
-				"foreground": "#d0d0d9"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -1211,7 +1211,7 @@
 			"name": "brace function",
 			"scope": "function.brace",
 			"settings": {
-				"foreground": "#d0d0d9"
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -1281,7 +1281,7 @@
 			"name": "cs local variable",
 			"scope": "entity.name.variable.local.cs",
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -1351,14 +1351,14 @@
 			"name": "js class prop",
 			"scope": ["meta.property.object"],
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
 			"name": "js func parameter",
 			"scope": ["variable.parameter.function.js"],
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -1379,14 +1379,14 @@
 			"name": "js template literals variable braces begin",
 			"scope": ["keyword.other.substitution.begin"],
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
 			"name": "js template literals variable braces end",
 			"scope": ["keyword.other.substitution.end"],
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -1483,7 +1483,7 @@
 			"name": "CoffeeScript Function Argument",
 			"scope": ["meta.arguments.coffee", "variable.parameter.function.coffee"],
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -1525,21 +1525,21 @@
 			"name": "Groovy Variables",
 			"scope": ["meta.definition.variable.name.groovy"],
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
 			"name": "Groovy Inheritance",
 			"scope": ["meta.definition.class.inherited.classes.groovy"],
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#61afef"
 			}
 		},
 		{
 			"name": "HLSL Semantic",
 			"scope": ["support.variable.semantic.hlsl"],
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -1560,7 +1560,7 @@
 			"name": "SQL Variables",
 			"scope": ["text.variable", "text.bracketed"],
 			"settings": {
-				"foreground": "#9876aa"
+				"foreground": "#d0d0d9"
 			}
 		},
 		{
@@ -1669,7 +1669,7 @@
 				"entity.name.scope-resolution.function.definition"
 			],
 			"settings": {
-				"foreground": "#e5bc66"
+				"foreground": "#98c379"
 			}
 		},
 		{

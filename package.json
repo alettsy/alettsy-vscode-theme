@@ -2,7 +2,7 @@
 	"name": "alettsy-theme",
 	"displayName": "alettsy Theme",
 	"description": "My VS Code theme for clean, clear coding.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "alettsy",
 	"repository": {
 		"type": "git",
